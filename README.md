@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leekc3813
-- 👀 I’m interested in ...딥러닝,영상인식 알고리즘
-- 🌱 I’m currently learning ...알고리즘,딥러닝
+- 👀 I’m interested in ...front end software engnering
+- 🌱 I’m currently learning ..
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
